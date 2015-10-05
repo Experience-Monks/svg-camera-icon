@@ -1,0 +1,48 @@
+{
+  "name": "svg-camera-icon",
+  "version": "1.0.0",
+  "description": "SVG Camera icon path as a module",
+  "main": "camera.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "budo": "^5.1.1",
+    "draw-triangles-2d": "^1.0.0",
+    "extract-svg-path": "^2.1.0",
+    "garnish": "^3.2.1",
+    "svg-mesh-3d": "^1.0.1"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "build": "node build.js",
+    "start": "budo test.js --live | garnish"
+  },
+  "keywords": [
+    "svg",
+    "path",
+    "icon",
+    "font",
+    "awesome",
+    "fonts",
+    "triangulate",
+    "test",
+    "asset",
+    "geometry",
+    "mesh",
+    "3d",
+    "2d"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/svg-camera-icon.git"
+  },
+  "homepage": "https://github.com/Jam3/svg-camera-icon",
+  "bugs": {
+    "url": "https://github.com/Jam3/svg-camera-icon/issues"
+  }
+}

@@ -1,0 +1,11 @@
+bower_components
+build.js
+node_modules
+*.log
+.DS_Store
+bundle.js
+test
+test.js
+demo/
+.npmignore
+LICENSE.md
