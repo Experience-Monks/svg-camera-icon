@@ -1,7 +1,7 @@
 {
   "name": "svg-camera-icon",
   "version": "1.0.0",
-  "description": "SVG Camera icon path as a module",
+  "description": "FontAwesome's SVG camera as a module",
   "main": "camera.js",
   "license": "MIT",
   "author": {

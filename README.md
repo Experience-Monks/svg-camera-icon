@@ -46,10 +46,6 @@ You can `require('svg-camera-icon/retro')` for an alternative retro version.
 
 <img src="http://i.imgur.com/BA748S9.png" width="25%" />
 
-## Usage
-
-[![NPM](https://nodei.co/npm/svg-camera-icon.png)](https://www.npmjs.com/package/svg-camera-icon)
-
 ## License
 
 MIT, see [LICENSE.md](http://github.com/Jam3/svg-camera-icon/blob/master/LICENSE.md) for details.
